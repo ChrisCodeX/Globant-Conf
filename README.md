@@ -1,9 +1,5 @@
 <div align="center">
-  <h1>Bootstrap Basics</h1>
+  <h1>Globant Conf</h1>
   <br>
-  <img height="150" src="https://miro.medium.com/max/400/1*onZhQJU7A3ab6V1sHfMRkQ.jpeg" />
+  <img height="150" src="https://companieslogo.com/img/orig/GLOB-13857c80.png?t=1632767128" />
 </div>
-:open_book: Documentation: <br>
-- :purple_circle: https://getbootstrap.com/ <br>
-- :purple_circle: https://getbootstrap.com/docs/5.2/getting-started/introduction/
-<div>

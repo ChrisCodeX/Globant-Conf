@@ -20,29 +20,31 @@
 
 #navTitulo {
   font-family: 'Roboto', sans-serif;
-  color: #d42c8f;
+  color: #9eca4a;
 }
 
 .btn-compTicket {
-  background-color: #d42c8f;
-  color: white !important;
+  background-color: #9eca4a;
+  color: black !important;
 }
 
 .btn-compTicket:hover {
-  background-color: #871e5a;
-}
-
-.btn-modalComp {
-  background-color: #d42c8f !important;
+  background-color: #5b7726;
   color: white !important;
 }
 
+.btn-modalComp {
+  background-color: #9eca4a !important;
+  color: black !important;
+}
+
 .btn-modalComp:hover {
-  background-color: #871e5a !important;
+  background-color: #5b7726 !important;
+  color: white !important;
 }
 
 .text-resaltado {
-  color: #d54598 !important;
+  color: #9eca4a !important;
 }
 
 #main {
